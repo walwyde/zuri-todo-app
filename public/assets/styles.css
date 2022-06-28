@@ -1,0 +1,24 @@
+ body{
+    background: #ccc;
+    font-family: tahoma;
+    color: #989898;
+    text-align: center;
+} 
+
+div {
+text-align: center;
+}
+input {
+    width: 60%;
+    text-align: center;
+}
+/* button {
+    width: 20%;
+} */
+ul {
+    align-items: center;
+}
+li {
+    width: 300px;
+    
+}
