@@ -10,6 +10,7 @@ app.use(express.json())
 app.set('view engine', 'ejs')
 app.use(routes)
 
+// PLEASE read my README FILE, THANK YOU
 
 
 app.listen(PORT, () => {
